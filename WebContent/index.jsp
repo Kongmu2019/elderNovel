@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!-- 登录、注册按钮 -->
-<a href="reader-login.jsp"><img border="0" src="image/register.png"></a>
+<a href="login.html"><img border="0" src="image/register.png"></a>
 &nbsp;
 
 <!-- 书架按钮 -->
@@ -37,12 +37,13 @@
 <br/><hr/>
 
 <div>
-<a href="book1对应的阅读界面链接"><img border="0" src="image/book01.png"></a>
-<a href="book2对应的阅读界面链接"><img border="0" src="image/book02.png"></a>
-<a href="book3对应的阅读界面链接"><img border="0" src="image/book03.png"></a>
-<a href="book4对应的阅读界面链接"><img border="0" src="image/book04.png"></a>
+<a href="details.jsp"><img border="0" src="image/book0.jpg" height="400" width="250"></a>
+<a href="detailsby.jsp"><img border="0" src="image/bookby.png"  height="400" width="250"></a>
+<a href="details-han.jsp"><img border="0" src="image/bookjidu.jpg" height="400" width="250"></a>
+<a href="details-tang.jsp"><img border="0" src="image/booktang.png" height="400" width="250"></a>
+<a href="details-mar.jsp"><img border="0" src="image/bookmar.png" height="400" width="250"></a>
 <!-- 酌情可不要allbook.jsp界面 -->
-<a href="allbook.jsp待实现。。"><img border="0" src="image/booketc.png"></a>
+<a href="allbook.jsp待实现。。"><img border="0" src="image/booketc.png" height="400" width="250"></a>
 </div>
 
 

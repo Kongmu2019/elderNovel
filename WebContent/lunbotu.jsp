@@ -54,7 +54,7 @@
 </head>
 <body>
  <div id="loopDiv">
- 		<img src="image/lunbotu0.png" width="100%" height="100%" id="pic">
+ 		<img src="image/lunbotu0.jpg" width="100%" height="100%" id="pic">
         <ul id="list">
             <li>1</li>
             <li>2</li>
@@ -97,7 +97,7 @@
             }
             //更换图片
             //"img/1.jpg"
-            jsImg.src = "image/lunbotu" + currentPage + ".png";
+            jsImg.src = "image/lunbotu" + currentPage + ".jpg";
             //将所有的小圆点颜色清空
             for (var i = 0; i < jsLis.length; i++) {
                 jsLis[i].style.backgroundColor = "#aaa";
